@@ -1,5 +1,5 @@
 # Dynamic Music for Windows
 
-Esse aplicativo coloca uma música de fundo que muda de acordo com a frequência das teclas apertadas.
+This application puts background music that changes according to the frequency of the pressed keys.
 
-*Desenvolvi esse aplicativo como forma de estudos para desbravar o mundo da programação, então perdão pelos codigos.
+*I developed this application as a way of studying to explore the world of programming, so sorry for the codes.
