@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicMusicForWindows2", "DynamicMusicForWindows2\DynamicMusicForWindows2.csproj", "{958512DD-5319-474C-918B-C25770C3C9CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958512DD-5319-474C-918B-C25770C3C9CB}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{958512DD-5319-474C-918B-C25770C3C9CB}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{958512DD-5319-474C-918B-C25770C3C9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958512DD-5319-474C-918B-C25770C3C9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E18DD66-A3AE-496F-9612-54D1CE9C6F91}
+	EndGlobalSection
+EndGlobal

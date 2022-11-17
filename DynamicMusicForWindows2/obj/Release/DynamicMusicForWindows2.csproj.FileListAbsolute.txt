@@ -1,0 +1,24 @@
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\bin\Release\Newtonsoft.Json.dll
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\bin\Release\Interop.WMPLib.dll
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\bin\Release\AxInterop.WMPLib.dll
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\DynamicMusicForWindows2.csproj.AssemblyReference.cache
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\DynamicMusicForWindows2.csproj.SuggestedBindingRedirects.cache
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\Interop.WMPLib.dll
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\AxInterop.WMPLib.dll
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\DynamicMusicForWindows2.csproj.ResolveComReference.cache
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\DynamicMusicForWindows2.csproj.GenerateResource.cache
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\DynamicMusicForWindows2.csproj.CoreCompileInputs.cache
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\DynamicMusicForWindows2.csproj.CopyComplete
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\DynamicMusicForWindows.Properties.Resources.resources
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\bin\Release\Dynamic Music for Windows.exe.config
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\bin\Release\Dynamic Music for Windows.exe.manifest
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\bin\Release\Dynamic Music for Windows.application
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\bin\Release\Dynamic Music for Windows.exe
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\bin\Release\Dynamic Music for Windows.pdb
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\DynamicMusicForWindows.CloseButton.resources
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\DynamicMusicForWindows.Form1.resources
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\DynamicMusicForWindows.UserControl1.resources
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\Dynamic Music for Windows.exe.manifest
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\Dynamic Music for Windows.application
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\Dynamic Music for Windows.exe
+D:\Projetos e Trabalhos\Apps\DynamicMusicForWindows2\DynamicMusicForWindows2\obj\Release\Dynamic Music for Windows.pdb
